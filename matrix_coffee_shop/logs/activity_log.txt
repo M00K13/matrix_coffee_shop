@@ -1,0 +1,80 @@
+[2025-03-29 15:40:18] User ID: 7 | IP: 192.168.1.230 | Action: view_dashboard | Details: User viewed their dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Session Data: Array
+(
+    [user_id] => 7
+    [username] => shane
+    [role] => customer
+)
+
+------------------------------------------------------
+[2025-03-29 15:40:31] User ID: 7 | IP: 192.168.1.230 | Action: view_dashboard | Details: User viewed their dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Session Data: Array
+(
+    [user_id] => 7
+    [username] => shane
+    [role] => customer
+)
+
+------------------------------------------------------
+[2025-03-29 15:40:48] User ID: 7 | IP: 192.168.1.230 | Action: view_dashboard | Details: User viewed their dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Session Data: Array
+(
+    [user_id] => 7
+    [username] => shane
+    [role] => customer
+)
+
+------------------------------------------------------
+[2025-03-29 15:42:59] User ID: 7 | IP: 192.168.1.230 | Action: view_dashboard | Details: User viewed their dashboard
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Session Data: Array
+(
+    [user_id] => 7
+    [username] => shane
+    [role] => customer
+)
+
+------------------------------------------------------
+[2025-03-29 15:43:08] User ID: 7 | IP: 192.168.1.230 | Action: add_to_cart | Details: Added product ID: 5, quantity: 1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Session Data: Array
+(
+    [user_id] => 7
+    [username] => shane
+    [role] => customer
+)
+
+------------------------------------------------------
+[2025-03-29 15:43:16] User ID: 7 | IP: 192.168.1.230 | Action: add_to_cart | Details: Added product ID: 2, quantity: 1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Session Data: Array
+(
+    [user_id] => 7
+    [username] => shane
+    [role] => customer
+)
+
+------------------------------------------------------
+[2025-03-29 15:43:29] User ID: 7 | IP: 192.168.1.230 | Action: add_to_cart | Details: Added product ID: 2, quantity: 3
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Session Data: Array
+(
+    [user_id] => 7
+    [username] => shane
+    [role] => customer
+)
+
+------------------------------------------------------
+[2025-03-29 15:45:52] User ID: 7 | IP: 192.168.1.230 | Action: logout | Details: User logged out
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Session Data: Array
+(
+    [user_id] => 7
+    [username] => shane
+    [role] => customer
+)
+
+------------------------------------------------------
